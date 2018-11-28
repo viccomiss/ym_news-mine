@@ -1,0 +1,344 @@
+/* 
+  File.strings
+  Hunt
+
+  Created by 杨明 on 2018/7/25.
+  Copyright © 2018年 congzhi. All rights reserved.
+*/
+
+//tab
+Market = "行情";
+Me = "我的";
+Candy = "糖果";
+Application = "应用下载";
+College = "学院";
+
+//college
+CourseIntroduce = "课程介绍";
+IntroToCollege = "介绍";
+Directory = "目录";
+JoinStudy = "加入学习";
+ImmediatePayment = "立即支付";
+Free = "免费";
+Period = "期";
+StudyOfPeople = "人学习";
+SalePrice = "优惠价";
+OriPrice = "原价";
+TryIt = "试看";
+ShouldPay = "应付";
+ConfirmOrder = "确认订单";
+EarnCandy = "糖果不足，赚取糖果";
+RainbowCollege = "虹掌学院";
+PosterCodeTag = "长按识别二维码进行学习 \n 分享来自虹掌APP";
+PleaseJoinBundle = "请先加入学习";
+BuySuccessAlert = "支付完成!\n恭喜你，又向成功迈进了一步";
+LearnNow = "立即学习";
+
+
+//markets
+Markets = "币行情";
+Exchange = "交易所";
+Optional = "自选";
+MarketValueGain = "市值/涨幅";
+MarketCap = "市值";
+Volume = "成交额";
+Price = "价格";
+Change = "今日涨幅";
+AddEditOptions = "添加、编辑自选";
+IntelligentRecommendation = "智能推荐";
+ClickToAdd = "一键添加";
+ChangeReload = "换一批";
+NotReallyInterestedAddMyself = "不太感兴趣, 我要自己添加";
+Name = "名称";
+DayTurnover = "24h成交额";
+HighDay = "最高(24h)";
+TotalDay = "总额(24h)";
+CirculationValue = "流通市值";
+LowDay = "最低(24h)";
+ChangeDay = "换手(24h)";
+MarketRank = "市值排名";
+Today = "今日";
+Money = "资金";
+Introduce = "简况";
+Close = "关闭";
+TimeSharing = "分时图";
+TimeShort = "分时多空";
+KLine = "K线图";
+TKL = "三色K线";
+DZKL = "与庄共舞";
+QKKL = "乾坤图";
+All = "全网";
+DayK = "日K";
+WeekK = "周K";
+MonthK = "月K";
+PackUp = "收起";
+Unfold = "展开";
+PopularCurrency = "热门币种";
+CollectionAlertSummary = "需要登录才能使用自选功能";
+ShareAlertSummary = "需要登录才能使用分享功能";
+ColAlertSummary = "需要登录才能使用收藏功能";
+AddCollectSuccess = "添加自选成功";
+RemoveCollectSuccess = "删除自选成功";
+EditCollection = "编辑自选";
+CirculatingSupply = "流通量";
+CirculationRate = "流通率";
+MaximumAmount = "最大量";
+MaxSupply = "总发行量";
+CirculatingCap = "总流通市值";
+MarketCapRank = "流通市值排行";
+TotalMarketCap = "总市值";
+ProjectIntroduce = "项目简介";
+NoCoinKline = "该币种暂无K线图";
+NoOpenStayTuned = "暂未开放，敬请期待";
+Advertising = "推荐";
+CirculatingSupplyInfoTag = "指能在二级市场进行交易的数字货币总量。";
+TotalSupplyInfoTag = "截止到当前数字货币的发行总量。";
+MaxSupplyInfoTag = "项目方承诺并对外公布的数字货币最大发行总量。";
+
+
+
+//search
+Search = "搜索";
+InputCoinOrExchange = "请输入币名或交易所名";
+HistorySearch = "历史搜索";
+HotSearch = "热门搜索";
+HotExchanges = "热门交易所";
+Clear = "清空";
+NoSearchTag = "暂未搜索到您想要的内容";
+
+
+//candy
+RuleOfActivity = "活动规则";
+CheckNow = "立即查看";
+CheckEnergyLeaderboard = "查看掌力排行榜";
+EnergyRank = "掌力排行榜";
+Energy = "掌力";
+Rank = "排名";
+UserName = "用户名";
+EnergyValue = "掌力值";
+GrowEnergy = "提升掌力";
+Strategy = "攻略";
+Activity = "活动专场";
+InviteFriends = "邀请好友";
+UpdateOn = "更新于";
+CurrentEnergy = "当前掌力";
+QuicklyEarnEnergyImproveSpeedDigging = "赶紧赚取掌币，提升挖宝速度";
+MoreContributionsMoreEnergyFasterOreGrows = "贡献越多，算力越多，矿石生长越快。";
+BasicTasks = "基础任务";
+AdvancedTasks = "高级任务";
+RegisterAccount = "注册账号";
+BonusCandy = "注册奖励糖果";
+DailyLogin = "每日登录";
+GetEnergy = "登录获取掌力";
+EnergyPerson = "邀请好友+100掌力/人";
+BindWallet = "绑定钱包";
+PositionGetEnergy = "持仓获取掌力";
+BuyMill = "购买矿机";
+MillGetEnergy = "购买矿机获得掌力";
+GrowingEnergy = "搜寻中...";
+Rainbow = "虹掌";
+CandyTotalTag = "糖果总数";
+CandyIntroInfo = "糖果简介";
+IncomeExpenditureRecord = "收支记录";
+RedemptionNotOpen = "兑换尚未开启";
+CandyRecord = "糖果记录";
+CurrenctEnergyValue = "当前掌力值";
+EnergyIntroInfo = "掌力简介";
+EnergyRecord = "掌力记录";
+SigninEnergyReward = "今日登录掌力";
+LoginToReceive = "登录领取";
+RankedFirstTag = "第";
+RankedLastTag = "名";
+
+
+//application
+BlockApplication = "区块链应用";
+CheckMore = "查看更多";
+Recommended = "精品推荐";
+DownloadRank = "下载排行";
+Install = "安装";
+Installing = "安装中";
+InstallAtOnce = "立即安装";
+Download = "下载";
+AppSearch = "应用搜索";
+TimeNumber = "次";
+TrustTutorial = "信任教程";
+InstallPrompt = "安装提示";
+GoTrust = "去信任";
+InstallPromptTag1 = "1.同意安装后，将自动在桌面上开始安装";
+InstallPromptTag2 = "2.安装完成后，首次打开APP需要信任描述文件";
+CheckTrustDetail = "查看信任操作详细步骤";
+InstallDialogPopTag = "勾选后将不再弹出此对话框";
+
+//mine
+MyInvitationCode = "我的邀请码";
+GenerateInvitationCARDS = "生成邀请卡";
+CurrencyAssets = "币资产";
+MessageCenter = "消息中心";
+SwitchColorOfCandlestick = "红涨绿跌";
+CurrencySettings = "价格显示";
+Language = "多语言";
+SkinSwitch = "皮肤切换";
+ContactUs = "加官方群";
+AboutUs = "关于虹掌";
+ClearCache = "清除缓存";
+InviteFriendsCarveUpCandy = "邀请好友，+888糖果，无上限";
+Avatar = "头像";
+NickName = "昵称";
+Mobile = "手机号";
+EditPassword = "修改密码";
+InputNickName = "输入昵称";
+EditNickName = "修改昵称";
+Save = "保存";
+InputOldPassword = "请输入旧密码";
+SetNewPassword = "设置新密码(密码至少6位数)";
+SetNewPasswordAgain = "请再次输入密码";
+Done = "完成";
+ForgetPasswordFindByMobile = "忘记原密码，通过手机号找回";
+MobileFindPassword = "手机号找回密码";
+MobileAreaCode = "手机号归属地";
+InputVerificationCode = "输入验证码";
+GetVerificationCode = "获取验证码";
+InputMobile = "请输入手机号";
+InputPassword = "请输入密码";
+Retry = "重试";
+SendVerificationCode = "发送验证码";
+ChooseAvatarType = "请选择上传头像方式";
+TakePhoto = "拍照";
+ChooseFromAlbum = "相册";
+Cancel = "取消";
+InviteCode = "邀请码";
+Copy = "复制";
+MyRecord = "我的战绩:";
+RewardRules = "奖励规则:";
+InvitationCardEquippedSentFriends = "邀请卡已装备好，发给好友吧";
+ShareMarketToFriends = "分享行情给好友";
+ShareNewsToFriends = "分享资讯给好友";
+ShareFlashToFriends = "分享快讯给好友";
+ShareBundleToFriends = "分享专栏给好友";
+DigitalFutureControl = "数字未来 一手掌控";
+MakePoster = "生成海报";
+ShareLink = "复制链接";
+WechatFriends = "微信好友";
+Moments = "朋友圈";
+SaveLocal = "保存本地";
+System = "系统";
+ElegantBlue = "优雅蓝";
+VibrantOrange = "活力橙";
+SimChineseLanguage = "简体中文";
+EnglishLanguage = "英文";
+AddOptional = "添加自选";
+KeyAdd = "一键添加";
+CurrencyShow = "价格显示";
+Add = "添加";
+ClickStarCancelCollect = "点击星星取消自选";
+Drag = "拖动";
+Topping = "置顶";
+CacheClearDone = "缓存清除完毕";
+UserInfo = "个人信息";
+UpdateTag = "更新内容";
+VersionTag = "版本号";
+UpdatesContent = "1、新增糖果商城，用户可在线使用糖果兑换数字资产、实物礼品和线下课程名额等产品\n2、活动分享优化，邀请好友更简单\n3、交易所详情中交易对显示优化，下架有刷量嫌疑的交易对，优化数据准确性\n4、对接更多交易所，信息覆盖面更广";
+UpdateNow = "立即更新";
+
+//login
+Next = "下一步";
+CountryAndArea = "国家/地区";
+LoginSummary = "验证即可登录，未注册用户将根据手机号自动创建账号";
+MineLoginTag = "请登录";
+Logout = "退出登录";
+Login = "登录";
+LogoutAlert = "确认退出登录?";
+Confirm = "确认";
+China = "中国";
+LoginInviteSummary = "邀请码(选填)";
+
+//alert
+VerCodeSentSuccess = "验证码发送成功";
+PhoneNumberNotBlank = "手机号码不能为空";
+PleaseFillCorrectMobileNumber = "请填写正确的手机号";
+VerCodeNotBlank = "验证码不能为空";
+PleaseEnterCorrectVerCode = "请填写正确的验证码";
+RegisterSuccess = "注册成功";
+LoginSuccess = "登录成功";
+EditSuccess = "修改成功";
+CurrentAccountNotLoggedIn = "当前账号未登录，请登录";
+NoDataTag = "暂无数据";
+NewVersions = "发现新版本";
+UpdateTo = "更新到";
+SaveSuccess = "保存成功";
+DelSuccess = "删除成功";
+ConfirmDelet = "确认删除";
+CanNotExceed = "不能超过";
+Character = "字符";
+
+
+//currency
+FromOptionalSelectCoin = "从自选行情币种里选择";
+ShowBalanceCurrency = "显示零余额币种";
+TotalAssets = "总资产占比";
+Initials = "首字母";
+TodayGains = "今日涨幅";
+CostRecord = "成本记录";
+DefaultCurrencyGroup = "默认币资产组合";
+CurrencyBuy = "买入";
+CurrencySale = "卖出";
+AddCurrencyRecord = "添加交易记录";
+CurrencyInfo = "币信息";
+StoreIn = "存放于";
+Remark = "备注";
+ChooseCoin = "选择一个币";
+ChooseCurrency = "请选择一个币";
+Quantity = "数量";
+PleaseEnterQuantity = "请输入数量";
+BuyPricePerUnit = "买入价格";
+SellPricePerUnit = "卖出价格";
+PleaseEnterBuyPrice = "请输入买入价格";
+Time = "时间";
+PleaseSelectTime = "请选择时间";
+Wallet = "钱包";
+PickExchange = "选择交易所（选填）";
+PickOneExchange = "选择交易所";
+PleaseChooseExchange = "请选择交易所";
+PleaseCopyWalletAdress = "请将钱包地址粘贴至此";
+PleaseEnterSellPrice = "请输入卖出价格";
+CurrencyForm = "来自于";
+Edit = "编辑";
+AddTransactionRecord = "添加交易记录";
+MineCurrentAssets = "我的币资产";
+Choose = "选择";
+PerUnit = "单价";
+TotalUnit = "总价";
+TotalInvestment = "总投入";
+Profit = "利润";
+NetCost = "净成本";
+BuyAveragePrice = "买入均价";
+SellAveragePrice = "卖出均价";
+BuyUnitPrice = "买入单价";
+TotalPurchase = "买入总额";
+SaleUnitPrice = "卖出单价";
+SaleTotalPurchase = "卖出总额";
+CurrentValue = "当前价值";
+Buy = "买";
+Sell = "卖";
+BuyInitials = "买";
+SellInitials = "卖";
+OptionalLimited200Characters = "选填，限200字符";
+
+
+//单位
+HundredMillion = "亿";
+Wan = "万";
+
+
+//资讯
+Infomation = "资讯";
+Flash = "快讯";
+Share = "分享";
+Browse = "浏览";
+SourceKey = "来源";
+BeeNews = "币快报";
+FlashShareSlogan = "注册即送1888糖果";
+FlashShareDownloadSlogan = "长按识别二维码，下载立即领取糖果";
+
+

@@ -1,0 +1,133 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AliyunOSSiOS (2.5.4)
+  - DOUAudioStreamer (0.2.15)
+  - FLAnimatedImage (1.0.12)
+  - IQKeyboardManager (3.3.7)
+  - JDFTooltips (1.1)
+  - JKCountDownButton (1.2.0)
+  - JXCategoryView (1.0.3)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.6)
+  - PNChart (0.8.9):
+    - UICountingLabel (~> 1.2.0)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SocketRocket (0.5.1)
+  - UAProgressView (0.1.4)
+  - UICountingLabel (1.2.0)
+  - UMCAnalytics (5.5.0):
+    - UMCCommon
+  - UMCCommon (1.5.2)
+  - UMCSecurityPlugins (1.0.6)
+  - WebViewJavascriptBridge (6.0.3)
+  - WMPageController (2.3.0)
+  - XHLaunchAd (3.9.7):
+    - FLAnimatedImage (~> 1.0.12)
+  - ZFPlayer (3.1.5):
+    - ZFPlayer/Core (= 3.1.5)
+  - ZFPlayer/AVPlayer (3.1.5):
+    - ZFPlayer/Core
+  - ZFPlayer/ControlView (3.1.5):
+    - ZFPlayer/Core
+  - ZFPlayer/Core (3.1.5)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - AliyunOSSiOS (~> 2.5.0)
+  - DOUAudioStreamer (~> 0.2.15)
+  - IQKeyboardManager (~> 3.3.7)
+  - JDFTooltips
+  - JKCountDownButton
+  - JXCategoryView
+  - Masonry (~> 1.0.2)
+  - MBProgressHUD (~> 1.0.0)
+  - MJExtension (~> 3.0.13)
+  - MJRefresh (~> 3.1.0)
+  - PNChart
+  - SDWebImage (~> 3.7.5)
+  - SocketRocket
+  - UAProgressView
+  - UMCAnalytics
+  - UMCCommon
+  - UMCSecurityPlugins
+  - WebViewJavascriptBridge
+  - WMPageController (~> 2.3.0)
+  - XHLaunchAd
+  - ZFPlayer (~> 3.0)
+  - ZFPlayer/AVPlayer (~> 3.0)
+  - ZFPlayer/ControlView (~> 3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - AliyunOSSiOS
+    - DOUAudioStreamer
+    - FLAnimatedImage
+    - IQKeyboardManager
+    - JDFTooltips
+    - JKCountDownButton
+    - JXCategoryView
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - PNChart
+    - SDWebImage
+    - SocketRocket
+    - UAProgressView
+    - UICountingLabel
+    - UMCAnalytics
+    - UMCCommon
+    - UMCSecurityPlugins
+    - WebViewJavascriptBridge
+    - WMPageController
+    - XHLaunchAd
+    - ZFPlayer
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AliyunOSSiOS: 2bd80cd234763b5cf3948d7eb51769cd1ae694a0
+  DOUAudioStreamer: 14f217bab01b52171fc2bd7d96e1f8fdd50fce68
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  JDFTooltips: 72a825bdd8a323fb035d5a57c13e1298f5a8e256
+  JKCountDownButton: cc72e24c8b73f232b15cc348277422b089d43bff
+  JXCategoryView: ce8d714b75989e91dbf440fbad431908ea815c29
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: 0efa19656679d70a0f47cbe76e56c2271fe53a97
+  PNChart: 84774d225c2126ded6c93d4dbe6ae98c3a73c2d2
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  UAProgressView: 6796f5aa05037fb2940521636163b9db40a6c534
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+  UMCAnalytics: 4667788559a72f2fa5077117d1b8802a3b6eb6bb
+  UMCCommon: 4392868ac47ff1b101663106bb114ba616fabbad
+  UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
+  WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
+  WMPageController: 9f219bb8912a1a1f51af11fde61e2682a7b7e7f2
+  XHLaunchAd: 0dc50c5af00ee5d9e734b9dce6eece7acaa71122
+  ZFPlayer: 8273a62fcc76f451db043ce640434d5f8799c09a
+
+PODFILE CHECKSUM: 3f4f1f608a06591f68b9bdeb5fd3011d8433f285
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,339 @@
+/* 
+  File.strings
+  Hunt
+
+  Created by 杨明 on 2018/7/25.
+  Copyright © 2018年 congzhi. All rights reserved.
+*/
+
+//tab
+Market = "Markets";
+Me = "Me";
+Candy = "Candy";
+Application = "Application";
+College = "College";
+
+//college
+CourseIntroduce = "Course Introduction";
+IntroToCollege = "Introduction";
+Directory = "Directory";
+JoinStudy = "Join Learning";
+ImmediatePayment = "Buy";
+Free = "Free";
+Period = "Period";
+StudyOfPeople = "Subscription";
+SalePrice = "Price";
+OriPrice = "Original price";
+TryIt = "Try";
+ShouldPay = "Pay";
+ConfirmOrder = "Confirm Order";
+EarnCandy = "Insufficient candy, earn candy";
+RainbowCollege = "Rainbow College";
+PosterCodeTag = "Long press to identify the QR code to learn \n Share from Rainbow APP";
+PleaseJoinBundle = "Please join the study first";
+BuySuccessAlert = "Pay Success!\n Congratulations, you have taken another step towards success.";
+LearnNow = "LearnNow";
+
+//markets
+Markets = "Markets";
+Exchange = "Exchange";
+Optional = "Optional";
+MarketValueGain = "Market Value/Gains";
+MarketCap = "Market Cap";
+Volume = "Volume";
+Price = "Price";
+Change = "Change";
+AddEditOptions = "Add Edit Options";
+IntelligentRecommendation = "Intelligent Recommendation";
+ClickToAdd = "Click to add";
+ChangeReload = "Change";
+NotReallyInterestedAddMyself = "Not really interested, I'll add it myself";
+Name = "Name";
+DayTurnover = "24h Turnover";
+HighDay = "High(24h)";
+TotalDay = "Total(24h)";
+CirculationValue = "Value";
+LowDay = "Low(24h)";
+ChangeDay = "Change(24h)";
+MarketRank = "Rank";
+Today = "Today";
+Money = "Money";
+Introduce = "Introduce";
+Close = "Close";
+TimeSharing = "Time-sharing";
+TimeShort = "FSDK";
+KLine = "KLine";
+TKL = "TKL";
+DZKL = "DZKL";
+QKKL = "QKKL";
+All = "All";
+DayK = "1d";
+WeekK = "1w";
+MonthK = "1mon";
+PackUp = "Pack Up";
+Unfold = "unfold";
+PopularCurrency = "Popular Currency";
+CollectionAlertSummary = "log in to use the optional feature";
+ShareAlertSummary = "log in to use the share feature";
+ColAlertSummary = "log in to use the collect feature";
+Add = "Add";
+ClickStarCancelCollect = "Click stars to cancel your collect";
+Drag = "Drag";
+Topping = "Topping";
+AddCollectSuccess = "Add collection success";
+RemoveCollectSuccess = "remove collection success";
+EditCollection = "Edit collection";
+CirculatingSupply = "Circulating Supply";
+MaxSupply = "Max Supply";
+CirculationRate = "Circulation Rate";
+MaximumAmount = "Maximum Amount";
+CirculatingCap = "Circulating Cap";
+MarketCapRank = "Market Cap Rank";
+TotalMarketCap = "Market Cap";
+ProjectIntroduce = "Project Description";
+NoCoinKline = "No K-line chart for this currency";
+NoOpenStayTuned = "Please do not open yet, so stay tuned";
+Advertising = "Rec";
+CirculatingSupplyInfoTag = "the total amount of digital money that can be traded in the two tier market.";
+TotalSupplyInfoTag = "as of the total number of digital currency issued.";
+MaxSupplyInfoTag = "maximum amount of digital money promised and released by the project side.";
+
+
+
+//search
+Search = "Search";
+InputCoinOrExchange = "Please enter a coin or exchange name";
+HistorySearch = "Recent Searches";
+HotSearch = "Hot Searches";
+HotExchanges = "Hot Exchanges";
+Clear = "Clear";
+NoSearchTag = "Not searching for what you want";
+
+//candy
+RuleOfActivity = "rule of activity";
+CheckNow = "Check Now";
+CheckEnergyLeaderboard = "Check Energy Leaderboard";
+EnergyRank = "Energy Rank";
+Energy = "Energy";
+Rank = "Rank";
+UserName = "Name";
+EnergyValue = "Value";
+GrowEnergy = "Grow Energy";
+Strategy = "Strategy";
+Activity = "Activity";
+InviteFriends = "Invite";
+UpdateOn = "Update On";
+CurrentEnergy = "Current Energy";
+QuicklyEarnEnergyImproveSpeedDigging = "Quickly earn the Energy, improve the speed of digging";
+MoreContributionsMoreEnergyFasterOreGrows = "The more contributions, the more energy, the faster the ore grows.";
+BasicTasks = "Basic Tasks";
+AdvancedTasks = "Advanced Tasks";
+RegisterAccount = "Register Account";
+BonusCandy = "Bonus Candy";
+DailyLogin = "Daily log in";
+GetEnergy = "Get Energy";
+EnergyPerson = "+100 Energy/person";
+BindWallet = "Bind Wallet";
+PositionGetEnergy = "Position Get Energy";
+BuyMill = "Buy Mill";
+MillGetEnergy = "Get Energy";
+GrowingEnergy = "Searching";
+Rainbow = "Rainbow";
+CandyTotalTag = "Total number of candy";
+CandyIntroInfo = "Candy introduction";
+IncomeExpenditureRecord = "Income and expenditure record";
+RedemptionNotOpen = "Redemption is not yet open";
+CandyRecord = "Candy Record";
+CurrenctEnergyValue = "Current Energy Value";
+EnergyIntroInfo = "Energy introduction";
+EnergyRecord = "Energy Record";
+SigninEnergyReward = "Signin Energy Reward";
+LoginToReceive = "Login to receive";
+RankedFirstTag = "Ranked";
+RankedLastTag = "";
+
+
+//application
+BlockApplication = "Application";
+CheckMore = "See More";
+Recommended = "Recommended";
+DownloadRank = "Download Rank";
+Install = "Install";
+Installing = "Installing";
+InstallAtOnce = "Install Now";
+Download = "Download";
+AppSearch = "App Search";
+TimeNumber = "";
+TrustTutorial = "Trust Tutorial";
+InstallPrompt = "Install Prompt";
+GoTrust = "Go Trust";
+InstallPromptTag1 = "1.After agreeing to install, it will automatically start to install on the desktop.";
+InstallPromptTag2 = "2.After the installation is complete, the first time you open the app, you need a trust description file.";
+CheckTrustDetail = "View the detailed steps of the trust operation";
+InstallDialogPopTag = "This dialog will no longer pop up when checked.";
+
+
+//mine
+MyInvitationCode = "My invitation code";
+GenerateInvitationCARDS = "Generate invitation CARDS";
+CurrencyAssets = "Currency Assets";
+MessageCenter = "Message Center";
+SwitchColorOfCandlestick = "Switch Color Of Candlestick";
+CurrencySettings = "Currency Settings";
+Language = "Language";
+SkinSwitch = "Skin Switch";
+ContactUs = "Official Group";
+AboutUs = "About";
+ClearCache = "Clear Cache";
+InviteFriendsCarveUpCandy = "Invite friends, +888 candy, no limit";
+Avatar = "Avatar";
+NickName = "NickName";
+Mobile = "Mobile";
+EditPassword = "Edit Password";
+InputNickName = "Input NickName";
+EditNickName = "Edit NickName";
+Save = "Save";
+InputOldPassword = "Please enter the old password";
+SetNewPassword = "Set new password(At least 6)";
+SetNewPasswordAgain = "Please enter your password again";
+Done = "Done";
+ForgetPasswordFindByMobile = "Forget the password and retrieve it through your mobile";
+MobileFindPassword = "Retrieve password";
+MobileAreaCode = "Mobile Area Code";
+InputVerificationCode = "Input verification code";
+GetVerificationCode = "Get code";
+InputMobile = "Enter your phone number";
+InputPassword = "Enter the password";
+Retry = "Retry";
+SendVerificationCode = "Send code";
+ChooseAvatarType = "Please select upload profile picture mode";
+TakePhoto = "Take Photo";
+ChooseFromAlbum = "Choose From Album";
+Cancel = "Cancel";
+InviteCode = "Invite Code";
+Copy = "copy";
+MyRecord = "My Record:";
+RewardRules = "Reward Rules:";
+InvitationCardEquippedSentFriends = "The invitation card is equipped and sent to your friends";
+ShareMarketToFriends = "Share the market to friends";
+ShareNewsToFriends = "Share the News to friends";
+ShareFlashToFriends = "Share the Flash to friends";
+ShareBundleToFriends = "Share the Bundle to friends";
+DigitalFutureControl = "The digital future is in control";
+MakePoster = "Generate Poster";
+ShareLink = "Copy Link";
+WechatFriends = "Wechat Friends";
+Moments = "Moments";
+SaveLocal = "Save the local";
+System = "System";
+ElegantBlue = "Elegant Blue";
+VibrantOrange = "Vibrant Orange";
+SimChineseLanguage = "Simplified Chinese";
+EnglishLanguage = "English";
+AddOptional = "Add Optional";
+KeyAdd = "Key to add";
+CurrencyShow = "Currency Settings";
+CacheClearDone = "Cache cleared";
+UserInfo = "User Information";
+UpdateTag = "Updates";
+VersionTag = "Version";
+UpdatesContent = "1. New candy mall, users can use candy online to exchange digital assets, physical gifts and offline course quotas and other products.\n2, Activity sharing optimization, invite friends more simple\n3. Optimize the display of transaction pairs in the details of exchanges, and optimize the accuracy of data by removing suspected transaction pairs with brush volume.\n4, Docking more exchanges, information coverage is wider.";
+UpdateNow = "Update";
+
+//login
+LoginSummary = "Verify to log in, unregistered users will automatically create an account based on the phone number";
+MineLoginTag = "Log in";
+Logout = "log out";
+LogoutAlert = "Confirm logon exit ?";
+Confirm = "Confirm";
+CountryAndArea = "country / region";
+China = "China";
+Login = "Log in";
+LoginInviteSummary = "Invitation code (optional)";
+
+//alert
+VerCodeSentSuccess = "verification code was sent successfully";
+PhoneNumberNotBlank = "Phone number can not be blank";
+PleaseFillCorrectMobileNumber = "mobile number error";
+VerCodeNotBlank = "verification code can not be blank";
+PleaseEnterCorrectVerCode = "Please enter correct verfication code";
+RegisterSuccess = "register successful";
+LoginSuccess = "login successful";
+EditSuccess = "edit successful";
+CurrentAccountNotLoggedIn = "Current account is not logged in. Please login";
+NoDataTag = "No Data";
+NewVersions = "New Version";
+UpdateTo = "Update";
+SaveSuccess = "Save Success";
+ConfirmDelet = "Confirm Delete";
+DelSuccess = "Delete Success";
+CanNotExceed = "Can Not Exceed";
+Character = "Character";
+
+//currency
+FromOptionalSelectCoin = "Choose from the currency of your choice";
+ShowBalanceCurrency = "Show zero balance currency";
+TotalAssets = "Total assets";
+Initials = "Initials";
+TodayGains = "Today gains";
+CostRecord = "Cost record";
+DefaultCurrencyGroup = "Default currency portfolio";
+CurrencyBuy = "Buy";
+CurrencySale = "Sell";
+AddCurrencyRecord = "Add new transaction";
+CurrencyInfo = "Currency Info";
+StoreIn = "Stored/Kepy In";
+Remark = "Note";
+ChooseCoin = "Pick A Currency";
+ChooseCurrency = "Pick A Currency";
+Quantity = "Amount";
+PleaseEnterQuantity = "Please enter the amount";
+BuyPricePerUnit = "Buy Price";
+SellPricePerUnit = "Sell Price";
+PleaseEnterBuyPrice = "Buy Price";
+Time = "Time";
+PleaseSelectTime = "Please select time";
+Wallet = "Wallet";
+PickExchange = "Pick A Exchange";
+PickOneExchange = "Pick A Exchange";
+PleaseChooseExchange = "Please select an exchange";
+PleaseCopyWalletAdress = "Paste the wallet address here";
+PleaseEnterSellPrice = "Sell Price";
+CurrencyForm = "Source";
+Edit = "Edit";
+AddTransactionRecord = "Add transaction record";
+Choose = "Choose";
+MineCurrentAssets = "Currency Assets";
+PerUnit = "Per Unit";
+TotalUnit = "Total Value";
+TotalInvestment = "Total Investment";
+Profit = "Profit";
+NetCost = "Net cost";
+BuyAveragePrice = "Buy Avg Price";
+SellAveragePrice = "Sell Avg Price";
+BuyUnitPrice = "Buy Unit Price";
+TotalPurchase = "Total Purchase";
+SaleUnitPrice = "Sale Unit Price";
+SaleTotalPurchase = "Total Purchase";
+CurrentValue = "Current Value";
+Buy = "Buy";
+Sell = "Sell";
+BuyInitials = "B";
+SellInitials = "S";
+OptionalLimited200Characters = "Optional, limited to 200 characters";
+
+
+//单位
+HundredMillion = "";
+Wan = "万";
+
+
+//资讯
+Infomation = "Infomation";
+Flash = "Flash";
+Share = "Share";
+Browse = "browse";
+SourceKey = "Source";
+BeeNews = "BeeNews";
+FlashShareSlogan = "Register to send 1888 candy";
+FlashShareDownloadSlogan = "Long press to identify the QR code and download the candy immediately";
